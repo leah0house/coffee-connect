@@ -1,0 +1,13 @@
+C:\Code\MonthlyEmailer\MonthlyEmailer\bin\Debug\MonthlyEmailer.exe.config
+C:\Code\MonthlyEmailer\MonthlyEmailer\bin\Debug\MonthlyEmailer.exe
+C:\Code\MonthlyEmailer\MonthlyEmailer\bin\Debug\MonthlyEmailer.pdb
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.csprojAssemblyReference.cache
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.Form1.resources
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.csproj.GenerateResource.cache
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.csproj.CoreCompileInputs.cache
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.exe
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.pdb
+C:\Code\MonthlyEmailer\MonthlyEmailer\obj\Debug\MonthlyEmailer.Properties.Resources.resources
+C:\Code\MonthlyEmailer - Copy\MonthlyEmailer\bin\Debug\MonthlyEmailer.exe.config
+C:\Code\MonthlyEmailer - Copy\MonthlyEmailer\obj\Debug\MonthlyEmailer.exe
+C:\Code\MonthlyEmailer - Copy\MonthlyEmailer\obj\Debug\MonthlyEmailer.pdb
